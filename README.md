@@ -1,2 +1,2 @@
 # PinkCandy
-让你的SL可以拿取粉糖！使用EXILED构建（原作者是omgiamhungarian　本插件仅作为移植）
+##　本插件是基于omgiamhungarian制作的（PinkCandyReturns）［https://github.com/omgiamhungarian/PinkCandyReturns］制作的，因此大体意思相同
